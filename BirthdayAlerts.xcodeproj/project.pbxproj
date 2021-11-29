@@ -52,7 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				1932FB92275560BF00272E13 /* BirthdayAlertsApp.swift */,
-				1932FB94275560BF00272E13 /* ContentView.swift */,
+				1932FBA1275560ED00272E13 /* Views */,
+				1932FBA0275560E100272E13 /* Model */,
 				1932FB96275560C100272E13 /* Assets.xcassets */,
 				1932FB98275560C100272E13 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				1932FB99275560C100272E13 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1932FBA0275560E100272E13 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1932FBA1275560ED00272E13 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1932FB94275560BF00272E13 /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
